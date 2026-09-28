@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pypdf
+langchain-text-splitters
+google-generativeai
+chromadb
+pydantic-settings
+streamlit
+requests
+databases
+streamlit_extras
+sqlite3
